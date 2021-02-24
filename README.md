@@ -5,18 +5,18 @@ Table of Contents
 1. [General Information](#general-information)
 2. [Summary](#summary)
 3. [Tech Stack](#tech-stack)
-4. [Live Dashboard](#data-preprocessingcleaning)
+4. [Live Dashboard](#live-dashboard)
 
 
-<a name="https://github.com/sangtvo/Customer-Churn-Analysis#general-information"/>
-<a name="https://github.com/sangtvo/Customer-Churn-Analysis#summary"/>
-<a name="https://github.com/sangtvo/Customer-Churn-Analysis#tech-stack"/>
-<a name="https://github.com/sangtvo/Customer-Churn-Analysis#data-preprocessingcleaning"/>
+<a name="https://github.com/sangtvo/Avocado-Sales-KPI-Dashboard#general-information"/>
+<a name="https://github.com/sangtvo/Avocado-Sales-KPI-Dashboard#summary"/>
+<a name="https://github.com/sangtvo/Avocado-Sales-KPI-Dashboard#tech-stack"/>
+<a name="https://github.com/sangtvo/Avocado-Sales-KPI-Dashboard#live-dashboard"/>
 
 
 General Information
 ---
-The dashboard shows avocado sales in the U.S. for the years 2015-2018 and the data was provided by the [Hass Avocado Board](https://hassavocadoboard.com/). KPI used are sales volume in units, sales growth/volume in dollars, and average price.
+The dashboard shows avocado sales in the U.S. for the years 2015-2018, but comparing specifically for 2017 and 2016 sales data. The data was provided by the [Hass Avocado Board](https://hassavocadoboard.com/). KPI used are sales volume in units, sales growth/volume in dollars, and average price.
 
 Summary
 ---
@@ -28,6 +28,6 @@ Tech Stack
 
 Live Dashboard
 ---
-<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;AvocadoSales_16141504632650&#47;Dashboard1&#47;1_rss.png' style='border: none'/><br>
+<a href="https://public.tableau.com/views/AvocadoSales_16141504632650/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Av&#47;AvocadoSales_16141504632650&#47;Dashboard1&#47;1_rss.png' style='border: none'/></a><br>
 
 See live dashboard [here](https://public.tableau.com/views/AvocadoSales_16141504632650/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link).
