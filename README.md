@@ -1,4 +1,4 @@
-# Project 07: Avocado Sales KPI Dashboard
+# Avocado Sales KPI Dashboard
 
 Table of Contents
 ---
